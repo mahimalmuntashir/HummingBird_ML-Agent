@@ -1,7 +1,7 @@
 # 🧠 Intelligent Hummingbirds with Unity ML-Agents
 Design and Implementation of Intelligent Agent Virtual Bird Based on Machine Learning. A Simple Game Using Unity ML-Agents.
 
-![Humming Bird](img/humming_bird.webp)
+![Humming Bird](res/pic/GamePreview.jpg)
 
 Reinforcement Learning (RL) is among the most fascinating branches of Artificial Intelligence, and Unity ML-Agents offers an intuitive and engaging way to dive in.  
 This project demonstrates the creation of intelligent, six-degrees-of-freedom hummingbirds capable of dynamically flying, locating flowers, and drinking nectar using AI.
@@ -47,10 +47,10 @@ After training is completed:
 ## 📊 Example Training Output
 
 **Cumulative Reward Progression:**  
-![Cumulative Reward](img/cum_reward.png)
+![Cumulative Reward](res/pic/Environment.png)
 
 **Trained Policy Visualization:**  
-![Policy](img/policy.png)
+![Policy](res/pic/policy.jpg)
 
 ---
 
