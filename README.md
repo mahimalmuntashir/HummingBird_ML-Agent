@@ -60,7 +60,7 @@ After training is completed:
 ## 🎮 Compete Against the Trained Agent
 
 <p align="center">
-   <img src="img/video.gif" alt="Gameplay Preview">
+   <img src="res/video/video.mp4" alt="Gameplay Preview">
 </p>
 
 Control your hummingbird and go head-to-head against the trained AI in a flower-collecting mini-game.
