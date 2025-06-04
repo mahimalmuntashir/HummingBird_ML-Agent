@@ -52,6 +52,9 @@ After training is completed:
 **Trained Policy Visualization:**  
 ![Policy](res/pic/policy.jpg)
 
+**Policy Loses:**  
+![Policy](res/pic/Loses.png)
+
 ---
 
 ## 🎮 Compete Against the Trained Agent
