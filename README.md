@@ -52,7 +52,7 @@ After training is completed:
 **Trained Policy Visualization:**  
 ![Policy](res/pic/policy.jpg)
 
-**Policy Loses:**  
+**Policy & Value Loses:**  
 ![Policy](res/pic/Loses.png)
 
 ---
