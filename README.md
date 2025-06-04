@@ -22,7 +22,7 @@ These hummingbirds move freely in all directions, and their complex flight behav
 Run the following command to initiate training:
 
 ```bash
-mlagents-learn ./config/trainer_config.yaml --run-id humming_00
+mlagents-learn ./config/trainer_config.yaml --run-id hb_02
 ```
 
 ### 📈 Monitor Progress
@@ -30,7 +30,7 @@ mlagents-learn ./config/trainer_config.yaml --run-id humming_00
 To visualize training progress with TensorBoard, use:
 
 ```bash
-tensorboard --logdir ./config/summaries
+tensorboard --logdir results
 ```
 
 ### 📦 Using the Trained Model
